@@ -2,7 +2,7 @@
 <!-- ^ Leave this marker until /setup is complete. It tells Claude to greet a new user
      and run onboarding before any video work. The setup skill removes it when finished. -->
 
-# Creator Profile — _(your name)_
+# Creator Profile — CARNVL (carnvl.com)
 
 Your identity, positioning, and workflow for video work in this workspace. **Read this before every video task** (alongside `PREFERENCES.md`). Use it for on-screen text, niche framing, and workflow assumptions.
 
@@ -10,11 +10,11 @@ Your identity, positioning, and workflow for video work in this workspace. **Rea
 
 ## Identity
 
-- **Name on-screen**: _(your display name)_
-- **Instagram**: _(@handle or "—")_
-- **TikTok**: _(handle or "—")_
-- **YouTube**: _(handle or "—")_
-- **X / other**: _(handle or "—")_
+- **Name on-screen**: carnvl.com
+- **Instagram**: @carnvlclothing
+- **TikTok**: @carnvl.com
+- **YouTube**: —
+- **X / other**: —
 
 When putting handles on-screen (lower-thirds, outros, end-cards), use the platform-appropriate handle.
 
