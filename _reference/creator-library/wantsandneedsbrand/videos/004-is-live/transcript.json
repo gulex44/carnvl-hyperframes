@@ -1,0 +1,572 @@
+[
+  {
+    "text": "The",
+    "start": 0,
+    "end": 0.27,
+    "id": "w0"
+  },
+  {
+    "text": "last",
+    "start": 0.33,
+    "end": 0.75,
+    "id": "w1"
+  },
+  {
+    "text": "six",
+    "start": 0.78,
+    "end": 1.08,
+    "id": "w2"
+  },
+  {
+    "text": "months",
+    "start": 1.09,
+    "end": 1.73,
+    "id": "w3"
+  },
+  {
+    "text": "of",
+    "start": 1.74,
+    "end": 1.93,
+    "id": "w4"
+  },
+  {
+    "text": "my",
+    "start": 2.02,
+    "end": 2.16,
+    "id": "w5"
+  },
+  {
+    "text": "life",
+    "start": 2.21,
+    "end": 2.57,
+    "id": "w6"
+  },
+  {
+    "text": "have",
+    "start": 2.72,
+    "end": 2.79,
+    "id": "w7"
+  },
+  {
+    "text": "stacked",
+    "start": 2.88,
+    "end": 3.08,
+    "id": "w8"
+  },
+  {
+    "text": "up",
+    "start": 3.08,
+    "end": 3.15,
+    "id": "w9"
+  },
+  {
+    "text": "to",
+    "start": 3.24,
+    "end": 3.26,
+    "id": "w10"
+  },
+  {
+    "text": "this",
+    "start": 3.26,
+    "end": 3.4,
+    "id": "w11"
+  },
+  {
+    "text": "very",
+    "start": 3.4,
+    "end": 3.7,
+    "id": "w12"
+  },
+  {
+    "text": "moment,",
+    "start": 3.7,
+    "end": 4.31,
+    "id": "w13"
+  },
+  {
+    "text": "and",
+    "start": 4.31,
+    "end": 4.48,
+    "id": "w14"
+  },
+  {
+    "text": "this",
+    "start": 4.66,
+    "end": 4.68,
+    "id": "w15"
+  },
+  {
+    "text": "represents",
+    "start": 4.88,
+    "end": 5.14,
+    "id": "w16"
+  },
+  {
+    "text": "what",
+    "start": 5.17,
+    "end": 5.3,
+    "id": "w17"
+  },
+  {
+    "text": "that",
+    "start": 5.35,
+    "end": 5.44,
+    "id": "w18"
+  },
+  {
+    "text": "feels",
+    "start": 5.54,
+    "end": 5.85,
+    "id": "w19"
+  },
+  {
+    "text": "like.",
+    "start": 6.06,
+    "end": 6.21,
+    "id": "w20"
+  },
+  {
+    "text": "It",
+    "start": 6.25,
+    "end": 6.35,
+    "id": "w21"
+  },
+  {
+    "text": "started",
+    "start": 6.35,
+    "end": 6.51,
+    "id": "w22"
+  },
+  {
+    "text": "as",
+    "start": 6.78,
+    "end": 6.91,
+    "id": "w23"
+  },
+  {
+    "text": "just",
+    "start": 6.91,
+    "end": 7.16,
+    "id": "w24"
+  },
+  {
+    "text": "ideas,",
+    "start": 7.16,
+    "end": 7.58,
+    "id": "w25"
+  },
+  {
+    "text": "and",
+    "start": 7.58,
+    "end": 7.75,
+    "id": "w26"
+  },
+  {
+    "text": "then",
+    "start": 7.79,
+    "end": 7.99,
+    "id": "w27"
+  },
+  {
+    "text": "came",
+    "start": 8.11,
+    "end": 8.17,
+    "id": "w28"
+  },
+  {
+    "text": "the",
+    "start": 8.26,
+    "end": 8.4,
+    "id": "w29"
+  },
+  {
+    "text": "design",
+    "start": 8.45,
+    "end": 8.79,
+    "id": "w30"
+  },
+  {
+    "text": "process.",
+    "start": 8.79,
+    "end": 9.38,
+    "id": "w31"
+  },
+  {
+    "text": "We",
+    "start": 9.49,
+    "end": 9.6,
+    "id": "w32"
+  },
+  {
+    "text": "did",
+    "start": 9.6,
+    "end": 9.75,
+    "id": "w33"
+  },
+  {
+    "text": "multiple",
+    "start": 10.07,
+    "end": 10.26,
+    "id": "w34"
+  },
+  {
+    "text": "rounds",
+    "start": 10.4,
+    "end": 10.73,
+    "id": "w35"
+  },
+  {
+    "text": "of",
+    "start": 10.73,
+    "end": 10.87,
+    "id": "w36"
+  },
+  {
+    "text": "samples,",
+    "start": 10.87,
+    "end": 11.41,
+    "id": "w37"
+  },
+  {
+    "text": "filmed,",
+    "start": 11.51,
+    "end": 11.99,
+    "id": "w38"
+  },
+  {
+    "text": "edited,",
+    "start": 11.99,
+    "end": 12.46,
+    "id": "w39"
+  },
+  {
+    "text": "and",
+    "start": 12.55,
+    "end": 12.62,
+    "id": "w40"
+  },
+  {
+    "text": "posted",
+    "start": 12.72,
+    "end": 13.12,
+    "id": "w41"
+  },
+  {
+    "text": "360",
+    "start": 13.12,
+    "end": 13.68,
+    "id": "w42"
+  },
+  {
+    "text": "videos,",
+    "start": 13.72,
+    "end": 14.25,
+    "id": "w43"
+  },
+  {
+    "text": "took",
+    "start": 14.36,
+    "end": 14.51,
+    "id": "w44"
+  },
+  {
+    "text": "thousands",
+    "start": 14.51,
+    "end": 15.16,
+    "id": "w45"
+  },
+  {
+    "text": "of",
+    "start": 15.17,
+    "end": 15.28,
+    "id": "w46"
+  },
+  {
+    "text": "photos,",
+    "start": 15.28,
+    "end": 15.81,
+    "id": "w47"
+  },
+  {
+    "text": "lost",
+    "start": 15.81,
+    "end": 16.08,
+    "id": "w48"
+  },
+  {
+    "text": "countless",
+    "start": 16.08,
+    "end": 16.66,
+    "id": "w49"
+  },
+  {
+    "text": "hours",
+    "start": 16.66,
+    "end": 16.91,
+    "id": "w50"
+  },
+  {
+    "text": "of",
+    "start": 16.98,
+    "end": 17.09,
+    "id": "w51"
+  },
+  {
+    "text": "sleep,",
+    "start": 17.18,
+    "end": 17.55,
+    "id": "w52"
+  },
+  {
+    "text": "and",
+    "start": 17.55,
+    "end": 17.74,
+    "id": "w53"
+  },
+  {
+    "text": "traveled",
+    "start": 17.89,
+    "end": 18.27,
+    "id": "w54"
+  },
+  {
+    "text": "across",
+    "start": 18.27,
+    "end": 18.66,
+    "id": "w55"
+  },
+  {
+    "text": "the",
+    "start": 18.66,
+    "end": 18.85,
+    "id": "w56"
+  },
+  {
+    "text": "world",
+    "start": 18.85,
+    "end": 19.16,
+    "id": "w57"
+  },
+  {
+    "text": "just",
+    "start": 19.16,
+    "end": 19.43,
+    "id": "w58"
+  },
+  {
+    "text": "for",
+    "start": 19.43,
+    "end": 19.62,
+    "id": "w59"
+  },
+  {
+    "text": "marketing.",
+    "start": 19.62,
+    "end": 20.42,
+    "id": "w60"
+  },
+  {
+    "text": "And",
+    "start": 20.43,
+    "end": 20.67,
+    "id": "w61"
+  },
+  {
+    "text": "after",
+    "start": 20.67,
+    "end": 21.1,
+    "id": "w62"
+  },
+  {
+    "text": "all",
+    "start": 21.34,
+    "end": 21.35,
+    "id": "w63"
+  },
+  {
+    "text": "of",
+    "start": 21.35,
+    "end": 21.47,
+    "id": "w64"
+  },
+  {
+    "text": "that,",
+    "start": 21.51,
+    "end": 22.03,
+    "id": "w65"
+  },
+  {
+    "text": "it",
+    "start": 22.03,
+    "end": 22.16,
+    "id": "w66"
+  },
+  {
+    "text": "all",
+    "start": 22.29,
+    "end": 22.45,
+    "id": "w67"
+  },
+  {
+    "text": "ended",
+    "start": 22.45,
+    "end": 22.88,
+    "id": "w68"
+  },
+  {
+    "text": "up",
+    "start": 22.88,
+    "end": 23,
+    "id": "w69"
+  },
+  {
+    "text": "becoming",
+    "start": 23.15,
+    "end": 23.74,
+    "id": "w70"
+  },
+  {
+    "text": "this.",
+    "start": 23.74,
+    "end": 24.4,
+    "id": "w71"
+  },
+  {
+    "text": "And",
+    "start": 24.41,
+    "end": 24.54,
+    "id": "w72"
+  },
+  {
+    "text": "so",
+    "start": 24.6,
+    "end": 24.67,
+    "id": "w73"
+  },
+  {
+    "text": "after",
+    "start": 24.67,
+    "end": 24.95,
+    "id": "w74"
+  },
+  {
+    "text": "spending",
+    "start": 24.99,
+    "end": 25.39,
+    "id": "w75"
+  },
+  {
+    "text": "six",
+    "start": 25.39,
+    "end": 25.44,
+    "id": "w76"
+  },
+  {
+    "text": "months",
+    "start": 25.54,
+    "end": 25.88,
+    "id": "w77"
+  },
+  {
+    "text": "creating",
+    "start": 25.88,
+    "end": 26.32,
+    "id": "w78"
+  },
+  {
+    "text": "this",
+    "start": 26.32,
+    "end": 26.54,
+    "id": "w79"
+  },
+  {
+    "text": "drop,",
+    "start": 26.54,
+    "end": 26.87,
+    "id": "w80"
+  },
+  {
+    "text": "there",
+    "start": 26.87,
+    "end": 27.15,
+    "id": "w81"
+  },
+  {
+    "text": "was",
+    "start": 27.15,
+    "end": 27.31,
+    "id": "w82"
+  },
+  {
+    "text": "only",
+    "start": 27.31,
+    "end": 27.53,
+    "id": "w83"
+  },
+  {
+    "text": "one",
+    "start": 27.53,
+    "end": 27.69,
+    "id": "w84"
+  },
+  {
+    "text": "thing",
+    "start": 27.69,
+    "end": 27.97,
+    "id": "w85"
+  },
+  {
+    "text": "left",
+    "start": 27.97,
+    "end": 28.27,
+    "id": "w86"
+  },
+  {
+    "text": "to",
+    "start": 28.27,
+    "end": 28.36,
+    "id": "w87"
+  },
+  {
+    "text": "do,",
+    "start": 28.36,
+    "end": 29.31,
+    "id": "w88"
+  },
+  {
+    "text": "drop",
+    "start": 29.31,
+    "end": 30.27,
+    "id": "w89"
+  },
+  {
+    "text": "it.",
+    "start": 30.27,
+    "end": 31.47,
+    "id": "w90"
+  },
+  {
+    "text": "0-4",
+    "start": 31.48,
+    "end": 32.63,
+    "id": "w91"
+  },
+  {
+    "text": "is",
+    "start": 32.66,
+    "end": 32.99,
+    "id": "w92"
+  },
+  {
+    "text": "now",
+    "start": 32.99,
+    "end": 33.41,
+    "id": "w93"
+  },
+  {
+    "text": "live.",
+    "start": 33.5,
+    "end": 34.24,
+    "id": "w94"
+  }
+]

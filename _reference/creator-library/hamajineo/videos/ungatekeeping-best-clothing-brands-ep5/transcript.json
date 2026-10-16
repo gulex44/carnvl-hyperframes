@@ -1,0 +1,428 @@
+[
+  {
+    "text": "I'm",
+    "start": 0.04,
+    "end": 0.07,
+    "id": "w0"
+  },
+  {
+    "text": "go-keeping",
+    "start": 0.12,
+    "end": 0.54,
+    "id": "w1"
+  },
+  {
+    "text": "the",
+    "start": 0.54,
+    "end": 0.67,
+    "id": "w2"
+  },
+  {
+    "text": "most",
+    "start": 0.67,
+    "end": 0.84,
+    "id": "w3"
+  },
+  {
+    "text": "unique",
+    "start": 0.84,
+    "end": 1.07,
+    "id": "w4"
+  },
+  {
+    "text": "brands",
+    "start": 1.14,
+    "end": 1.4,
+    "id": "w5"
+  },
+  {
+    "text": "you",
+    "start": 1.4,
+    "end": 1.48,
+    "id": "w6"
+  },
+  {
+    "text": "have",
+    "start": 1.5,
+    "end": 1.63,
+    "id": "w7"
+  },
+  {
+    "text": "to",
+    "start": 1.63,
+    "end": 1.69,
+    "id": "w8"
+  },
+  {
+    "text": "know",
+    "start": 1.69,
+    "end": 1.82,
+    "id": "w9"
+  },
+  {
+    "text": "about.",
+    "start": 1.82,
+    "end": 2,
+    "id": "w10"
+  },
+  {
+    "text": "If",
+    "start": 2.04,
+    "end": 2.07,
+    "id": "w11"
+  },
+  {
+    "text": "you've",
+    "start": 2.12,
+    "end": 2.32,
+    "id": "w12"
+  },
+  {
+    "text": "been",
+    "start": 2.32,
+    "end": 2.46,
+    "id": "w13"
+  },
+  {
+    "text": "on",
+    "start": 2.5,
+    "end": 2.56,
+    "id": "w14"
+  },
+  {
+    "text": "the",
+    "start": 2.56,
+    "end": 2.68,
+    "id": "w15"
+  },
+  {
+    "text": "hunt",
+    "start": 2.68,
+    "end": 2.84,
+    "id": "w16"
+  },
+  {
+    "text": "for",
+    "start": 2.84,
+    "end": 2.96,
+    "id": "w17"
+  },
+  {
+    "text": "minimal",
+    "start": 2.96,
+    "end": 3.24,
+    "id": "w18"
+  },
+  {
+    "text": "elevated",
+    "start": 3.24,
+    "end": 3.56,
+    "id": "w19"
+  },
+  {
+    "text": "streetwear,",
+    "start": 3.56,
+    "end": 4.05,
+    "id": "w20"
+  },
+  {
+    "text": "keep",
+    "start": 4.05,
+    "end": 4.16,
+    "id": "w21"
+  },
+  {
+    "text": "watching.",
+    "start": 4.16,
+    "end": 4.4,
+    "id": "w22"
+  },
+  {
+    "text": "This",
+    "start": 4.46,
+    "end": 4.56,
+    "id": "w23"
+  },
+  {
+    "text": "brand",
+    "start": 4.56,
+    "end": 4.75,
+    "id": "w24"
+  },
+  {
+    "text": "takes",
+    "start": 4.77,
+    "end": 4.96,
+    "id": "w25"
+  },
+  {
+    "text": "heavy",
+    "start": 4.96,
+    "end": 5.16,
+    "id": "w26"
+  },
+  {
+    "text": "inspiration",
+    "start": 5.16,
+    "end": 5.6,
+    "id": "w27"
+  },
+  {
+    "text": "from",
+    "start": 5.6,
+    "end": 5.77,
+    "id": "w28"
+  },
+  {
+    "text": "European",
+    "start": 5.77,
+    "end": 6.11,
+    "id": "w29"
+  },
+  {
+    "text": "streetwear,",
+    "start": 6.11,
+    "end": 6.56,
+    "id": "w30"
+  },
+  {
+    "text": "combining",
+    "start": 6.68,
+    "end": 6.94,
+    "id": "w31"
+  },
+  {
+    "text": "preppy",
+    "start": 6.94,
+    "end": 7.18,
+    "id": "w32"
+  },
+  {
+    "text": "streetwear",
+    "start": 7.18,
+    "end": 7.59,
+    "id": "w33"
+  },
+  {
+    "text": "and",
+    "start": 7.59,
+    "end": 7.7,
+    "id": "w34"
+  },
+  {
+    "text": "intelligent",
+    "start": 7.71,
+    "end": 8.17,
+    "id": "w35"
+  },
+  {
+    "text": "aesthetics.",
+    "start": 8.17,
+    "end": 8.64,
+    "id": "w36"
+  },
+  {
+    "text": "They're",
+    "start": 8.68,
+    "end": 8.9,
+    "id": "w37"
+  },
+  {
+    "text": "the",
+    "start": 8.9,
+    "end": 8.99,
+    "id": "w38"
+  },
+  {
+    "text": "perfect",
+    "start": 9.01,
+    "end": 9.26,
+    "id": "w39"
+  },
+  {
+    "text": "to",
+    "start": 9.27,
+    "end": 9.34,
+    "id": "w40"
+  },
+  {
+    "text": "oversized",
+    "start": 9.34,
+    "end": 9.68,
+    "id": "w41"
+  },
+  {
+    "text": "for",
+    "start": 9.68,
+    "end": 9.78,
+    "id": "w42"
+  },
+  {
+    "text": "like",
+    "start": 9.79,
+    "end": 9.94,
+    "id": "w43"
+  },
+  {
+    "text": "silhouettes.",
+    "start": 9.94,
+    "end": 10.4,
+    "id": "w44"
+  },
+  {
+    "text": "And",
+    "start": 10.44,
+    "end": 10.54,
+    "id": "w45"
+  },
+  {
+    "text": "they",
+    "start": 10.54,
+    "end": 10.73,
+    "id": "w46"
+  },
+  {
+    "text": "have",
+    "start": 10.73,
+    "end": 10.86,
+    "id": "w47"
+  },
+  {
+    "text": "a",
+    "start": 10.92,
+    "end": 10.96,
+    "id": "w48"
+  },
+  {
+    "text": "wide",
+    "start": 10.96,
+    "end": 11.15,
+    "id": "w49"
+  },
+  {
+    "text": "catalog,",
+    "start": 11.15,
+    "end": 11.62,
+    "id": "w50"
+  },
+  {
+    "text": "from",
+    "start": 11.62,
+    "end": 11.82,
+    "id": "w51"
+  },
+  {
+    "text": "tees",
+    "start": 11.82,
+    "end": 12.02,
+    "id": "w52"
+  },
+  {
+    "text": "to",
+    "start": 12.02,
+    "end": 12.12,
+    "id": "w53"
+  },
+  {
+    "text": "sweaters",
+    "start": 12.12,
+    "end": 12.52,
+    "id": "w54"
+  },
+  {
+    "text": "and",
+    "start": 12.52,
+    "end": 12.62,
+    "id": "w55"
+  },
+  {
+    "text": "jackets.",
+    "start": 12.67,
+    "end": 13.19,
+    "id": "w56"
+  },
+  {
+    "text": "Everything",
+    "start": 13.32,
+    "end": 13.59,
+    "id": "w57"
+  },
+  {
+    "text": "I'm",
+    "start": 13.59,
+    "end": 13.66,
+    "id": "w58"
+  },
+  {
+    "text": "copying,",
+    "start": 13.71,
+    "end": 14.07,
+    "id": "w59"
+  },
+  {
+    "text": "this",
+    "start": 14.08,
+    "end": 14.27,
+    "id": "w60"
+  },
+  {
+    "text": "brand",
+    "start": 14.34,
+    "end": 14.56,
+    "id": "w61"
+  },
+  {
+    "text": "is",
+    "start": 14.56,
+    "end": 14.66,
+    "id": "w62"
+  },
+  {
+    "text": "called",
+    "start": 14.66,
+    "end": 14.98,
+    "id": "w63"
+  },
+  {
+    "text": "Emmy",
+    "start": 14.98,
+    "end": 15.19,
+    "id": "w64"
+  },
+  {
+    "text": "Studios.",
+    "start": 15.19,
+    "end": 15.6,
+    "id": "w65"
+  },
+  {
+    "text": "Follow",
+    "start": 15.72,
+    "end": 15.9,
+    "id": "w66"
+  },
+  {
+    "text": "for",
+    "start": 15.9,
+    "end": 16.05,
+    "id": "w67"
+  },
+  {
+    "text": "the",
+    "start": 16.05,
+    "end": 16.2,
+    "id": "w68"
+  },
+  {
+    "text": "next",
+    "start": 16.2,
+    "end": 16.4,
+    "id": "w69"
+  },
+  {
+    "text": "one.",
+    "start": 16.4,
+    "end": 16.56,
+    "id": "w70"
+  }
+]
