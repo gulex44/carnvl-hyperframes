@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Permanent+Marker&display=block" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1350px; background: #0b0806; overflow: hidden; }
+  .stage { position: relative; width: 1080px; height: 1350px; overflow: hidden; }
+  .layer { position: absolute; inset: 0; width: 1080px; height: 1350px; }
+
+  .night { background: url(assets/night.jpg) center / cover; }
+  /* deepen the sky behind the title, warm vignette like the night photo */
+  .shade {
+    background:
+      linear-gradient(to bottom, rgba(6,5,4,.55) 0%, rgba(6,5,4,.15) 26%, rgba(6,5,4,0) 40%),
+      radial-gradient(ellipse at 45% 55%, rgba(0,0,0,0) 55%, rgba(12,6,0,.55) 100%);
+  }
+
+  .title { position: absolute; left: 0; right: 0; top: 22px; text-align: center;
+           font-family: 'Anton', sans-serif; font-size: 236px; line-height: 1; letter-spacing: 4px; }
+  .title span { display: inline-block; }
+  .title sup { font-size: 60px; vertical-align: top; position: relative; top: 24px; margin-left: 4px; }
+  .title.back { color: #F3E3C3; -webkit-text-stroke: 24px #F3E3C3; filter: drop-shadow(0 10px 22px rgba(0,0,0,.7)); }
+  .title.front { color: transparent; -webkit-text-stroke: 7px #120d08; paint-order: stroke fill;
+                 }
+  .title.front i { font-style: normal; display: inline-block; background: url(assets/leopard-clean.jpg) 0 0 / 470px auto no-repeat;
+                   -webkit-background-clip: text; background-clip: text; filter: sepia(.45) saturate(1.5) brightness(1.02); }
+  .title.front sup { -webkit-text-stroke: 3px #120d08; }
+
+  /* him + the car + the leopard, cut out so the title sits behind them */
+  .guy { background: url(assets/guy.png) center / cover; }
+
+  /* her photo is flash-lit; warm and darken it to match the house lights */
+  .girl { position: absolute; left: 448px; top: 150px; width: 750px;
+          filter: sepia(.32) saturate(1.05) brightness(.8) contrast(1.06) drop-shadow(-14px 10px 24px rgba(0,0,0,.6)); }
+
+  .logo { position: absolute; top: 282px; right: 44px; width: 196px;
+          filter: drop-shadow(0 0 1.5px #F3E3C3) drop-shadow(0 0 1.5px #F3E3C3) drop-shadow(0 0 1.5px #F3E3C3) drop-shadow(0 6px 12px rgba(0,0,0,.6)); }
+
+  .tag { position: absolute; top: 292px; left: 470px; transform: rotate(-7deg);
+         font-family: 'Permanent Marker', cursive; font-size: 58px; color: #E8A93A;
+         -webkit-text-stroke: 3px #120d08; paint-order: stroke fill; text-shadow: 0 6px 14px rgba(0,0,0,.7); }
+  .grain { opacity: .09; mix-blend-mode: overlay;
+           background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' seed='7'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"); }
+</style>
+</head>
+<body>
+  <div class="stage">
+    <div class="layer night"></div>
+    <div class="layer shade"></div>
+    <div class="title back"><span>DEMIARD<sup>™</sup></span></div>
+    <div class="title front"><span><i style="background-position:-20px -60px">D</i><i style="background-position:-160px -40px">E</i><i style="background-position:-60px -150px">M</i><i style="background-position:-250px -80px">I</i><i style="background-position:-120px -230px">A</i><i style="background-position:-300px -170px">R</i><i style="background-position:-30px -260px">D</i><sup><i style="background-position:-200px -100px">™</i></sup></span></div>
+    <div class="layer guy"></div>
+    <img class="girl" src="assets/girl.png" alt="">
+    <img class="logo" src="assets/logo.png" alt="CARNIVL">
+    <div class="tag">new drop</div>
+    <div class="layer grain"></div>
+  </div>
+</body>
+</html>
