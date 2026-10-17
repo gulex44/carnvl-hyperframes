@@ -6,6 +6,7 @@ Style references studied with `/study-creator`. Say "build this like @handle" to
 
 - **[@crwnnoah](crwnnoah/)** — conversational full-brand try-on reviews, word-by-word captions, "hold it up → wear it" jump cuts — 1 video studied
 - **[@hamajineo](hamajineo/)** — fast "Ungatekeeping… pt.N" brand-discovery series with big yellow keyword captions — 1 video studied
+- **[@jens-heitmann](jens-heitmann/)** — AI/Claude Code tutorials: face-cam with screenshots he points at, comment-keyword CTA — 1 video studied
 - **[@wantsandneedsbrand](wantsandneedsbrand/style-distilled.md)** — streetwear brand selling its own drops through skits and stunts (costume gags, "the drop" thrown off a roof) — 3 videos studied
 
 ## Not studied
